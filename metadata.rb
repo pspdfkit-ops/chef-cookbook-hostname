@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-name             'hostname'
+name             'hostname-chef13'
 maintainer       'Maciej Pasternacki'
 maintainer_email 'maciej@3ofcoins.net'
 license          'MIT'
